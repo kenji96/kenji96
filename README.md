@@ -1,6 +1,6 @@
 # Hi there, I'm Kenji! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://github.com/user-attachments/assets/f2d7577b-cb20-4a03-9978-128414672624)
 
 ## About Me 🚀
 
