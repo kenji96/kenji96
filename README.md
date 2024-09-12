@@ -4,24 +4,27 @@
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I’m a **Software Engineer** with experience in **backend development, cloud services, microservices, real-time communication platforms like LiveKit, and CMS-based frontend services**. I specialize in building scalable, efficient solutions, from live streaming architectures to website development for small businesses. I love tackling complex problems, learning new technologies like WebRTC and AI, and collaborating with diverse teams to create innovative, user-centric solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
-
+-	🚀 Currently learning: **WebRTC, Golang, and scalable cloud infrastructures**
+-	💡 Working on: **Building a stable streaming platform using LiveKit and create a hosting service for small cases**
+-	💻 Languages & Tools: **JavaScript, PHP, PostgreSQL/MySQL, Golang, WebRTC, Docker | English**
+-	🌎 Fun fact: **I love applying tech solutions to non-tech-savvy environments, and in my spare time, I’m planning my next big trip!**
+<!--
+-	🎯 Goals: **Helping startups and individuals scale their online presence efficiently**
+!-->
 ## My Skills 🧠
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
+<!--
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+!-->
 
+<!--
 ## Featured Projects 💻
 
 ### [Project 1 Title](project_1_link)
@@ -36,10 +39,13 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 **[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
 
+!-->
+
+<!--
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
+- **[LinkedIn]**(www.linkedin.com/in/kenji-andrean-174078132)
 - **[Twitter]**(your_twitter_profile_link)
-
+!-->
 
